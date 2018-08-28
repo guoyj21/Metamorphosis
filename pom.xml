@@ -258,7 +258,7 @@
 	  <dependency>
 		<groupId>mysql</groupId>
 		<artifactId>mysql-connector-java</artifactId>
-		<version>5.1.5</version>
+		<version>5.1.42</version>
 	  </dependency>
 	</dependencies>
   </dependencyManagement>
@@ -271,7 +271,7 @@
 		<version>2.9</version>
 		<configuration>
 		  <charset>GBK</charset>
-		  <docencoding>GBK&gt;</docencoding>
+		  <docencoding>GBK></docencoding>
 		  <encoding>GBK</encoding>
 		  <aggregate>true</aggregate>
 		</configuration>
