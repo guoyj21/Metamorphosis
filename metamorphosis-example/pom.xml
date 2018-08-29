@@ -52,7 +52,7 @@
 		<dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-core</artifactId>
-            <version>3.2.2.RELEASE</version>
+            <version>3.2.9.RELEASE</version>
         </dependency>
         <dependency>
       	  <groupId>org.springframework</groupId>
@@ -62,7 +62,7 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-beans</artifactId>
-            <version>3.2.2.RELEASE</version>
+            <version>3.2.9.RELEASE</version>
         </dependency>
 		<dependency>
 			<groupId>org.ini4j</groupId>
