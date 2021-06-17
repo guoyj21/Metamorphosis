@@ -14,7 +14,7 @@
 				<groupId>org.codehaus.mojo</groupId>
 				<artifactId>tomcat-maven-plugin</artifactId>
 				<version>1.0-beta-1</version>
-				<configuration />
+				<configuration/>
 			</plugin>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
@@ -49,7 +49,7 @@
 		<dependency>
 			<groupId>org.eclipse.jetty</groupId>
 			<artifactId>jetty-client</artifactId>
-			<version>7.4.5.v20110725</version>
+			<version>9.0.0.v20130308</version>
 			<type>jar</type>
 			<scope>compile</scope>
 		</dependency>
